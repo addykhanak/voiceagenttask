@@ -1,0 +1,9 @@
+streamlit
+streamlit-audio-recorder
+sounddevice
+wavio
+SpeechRecognition
+gTTS
+python-dotenv
+google-generativeai
+pydub
